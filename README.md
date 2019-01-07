@@ -1,3 +1,4 @@
 # Learn-DVCS
 
-> John Angelo Alejano
+> __John Angelo Alejano__
+> **_jalejano1_**
