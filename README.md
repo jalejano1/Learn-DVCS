@@ -1,3 +1,3 @@
 # Learn-DVCS
 
-'John Angelo Alejano'
+> John Angelo Alejano
